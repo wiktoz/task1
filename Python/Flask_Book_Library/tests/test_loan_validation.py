@@ -1,6 +1,6 @@
 import pytest
 from datetime import datetime
-from project.models import Loan
+from project.loans.models import Loan
 
 
 def create_valid_loan():

@@ -1,5 +1,5 @@
 import pytest
-from project.models import Book
+from project.books.models import Book
 
 
 def create_valid_book():

@@ -1,5 +1,5 @@
 import pytest
-from project.models import Customer
+from project.customers.models import Customer
 
 
 def test_valid_customer():
